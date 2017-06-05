@@ -108,13 +108,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/karate/proprietary/etc/firmware/DE.o.msm8937:system/etc/firmware/DE.o.msm8937 \
     vendor/lenovo/karate/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
     vendor/lenovo/karate/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
-    vendor/lenovo/karate/proprietary/etc/flp.conf:system/etc/flp.conf \
-    vendor/lenovo/karate/proprietary/etc/hostapd/hostapd.accept:system/etc/hostapd/hostapd.accept \
-    vendor/lenovo/karate/proprietary/etc/hostapd/hostapd_default.conf:system/etc/hostapd/hostapd_default.conf \
-    vendor/lenovo/karate/proprietary/etc/hostapd/hostapd.deny:system/etc/hostapd/hostapd.deny \
-    vendor/lenovo/karate/proprietary/etc/izat.conf:system/etc/izat.conf \
-    vendor/lenovo/karate/proprietary/etc/lowi.conf:system/etc/lowi.conf \
-    vendor/lenovo/karate/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
+     vendor/lenovo/karate/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
     vendor/lenovo/karate/proprietary/etc/permissions/com.qti.dpmframework.xml:system/etc/permissions/com.qti.dpmframework.xml \
     vendor/lenovo/karate/proprietary/etc/permissions/com.qti.location.sdk.xml:system/etc/permissions/com.qti.location.sdk.xml \
     vendor/lenovo/karate/proprietary/etc/permissions/com.qti.snapdragon.sdk.display.xml:system/etc/permissions/com.qti.snapdragon.sdk.display.xml \
@@ -127,14 +121,10 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/karate/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/lenovo/karate/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
     vendor/lenovo/karate/proprietary/etc/permissions/telephonyservice.xml:system/etc/permissions/telephonyservice.xml \
-    vendor/lenovo/karate/proprietary/etc/sap.conf:system/etc/sap.conf \
-    vendor/lenovo/karate/proprietary/etc/sec_config:system/etc/sec_config \
-    vendor/lenovo/karate/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
     vendor/lenovo/karate/proprietary/etc/wifi/fstman.ini:system/etc/wifi/fstman.ini \
     vendor/lenovo/karate/proprietary/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/lenovo/karate/proprietary/etc/wifi/WCNSS_qcom_cfg.ini:system/etc/wifi/WCNSS_qcom_cfg.ini \
     vendor/lenovo/karate/proprietary/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
-    vendor/lenovo/karate/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/lenovo/karate/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
     vendor/lenovo/karate/proprietary/framework/com.qti.dpmframework.jar:system/framework/com.qti.dpmframework.jar \
     vendor/lenovo/karate/proprietary/framework/com.qti.snapdragon.sdk.display.jar:system/framework/com.qti.snapdragon.sdk.display.jar \
